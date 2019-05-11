@@ -1,6 +1,6 @@
 name: time_log
-description: time of logs
-version: 0.0.2
+description: Like javascript console.time, console.timeEnd in Dart
+version: 0.1.0
 author: pillar<ymzuiku@gmail.com>
 homepage: https://github.com/ymzuiku/dart-time-log
 
@@ -16,5 +16,4 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
 

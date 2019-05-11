@@ -15,9 +15,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ```dart
+import 'package:time_log/time_log.dart';
+
 void main() {
   var p = TimeLog.point();
-  for (var i; i < 100; i++) {
+  for (var i = 0; i < 100; i++) {
     print('test run time');
   }
   TimeLog.long(p); // Use time: 1.320ms
