@@ -1,0 +1,20 @@
+name: time_log
+description: time of logs
+version: 0.0.2
+author: pillar<ymzuiku@gmail.com>
+homepage: https://github.com/ymzuiku/dart-time-log
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+
